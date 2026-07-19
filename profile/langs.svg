@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="131.7"
+          width="103.86"
           height="8"
           fill="#f1e05a"
         />
@@ -138,19 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="131.7"
+          x="103.86"
           y="0"
-          width="58.28"
-          height="8"
-          fill="#b07219"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="189.98"
-          y="0"
-          width="32.11"
+          width="78.17"
           height="8"
           fill="#A97BFF"
         />
@@ -158,9 +148,19 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="222.08999999999997"
+          x="182.03"
           y="0"
-          width="15.9"
+          width="45.96"
+          height="8"
+          fill="#b07219"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="227.99"
+          y="0"
+          width="12.54"
           height="8"
           fill="#e34c26"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="237.98999999999998"
+          x="240.53"
           y="0"
-          width="15.83"
+          width="14.6"
           height="8"
           fill="#F05138"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="243.82"
+          x="245.13"
           y="0"
-          width="13.120000000000001"
+          width="12.46"
           height="8"
           fill="#701516"
         />
@@ -188,9 +188,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.94"
+          x="247.59"
           y="0"
-          width="13.06"
+          width="12.41"
           height="8"
           fill="#5B2063"
         />
@@ -201,49 +201,49 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 52.68%
+        JavaScript 41.54%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#b07219" />
+      <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 23.31%
+        Kotlin 31.27%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#A97BFF" />
+      <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin 12.84%
+        Java 18.39%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 6.36%
+        HTML 5.02%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#F05138" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Swift 2.33%
+        Swift 1.84%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#701516" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Ruby 1.25%
+        Ruby 0.98%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#5B2063" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Gherkin 1.22%
+        Gherkin 0.96%
       </text>
     </g>
   </g></g>
